@@ -1,1 +1,3 @@
-# como-comprar-time-new-bank-tnb
+[**Cómo comprar Time New Bank (TNB)**](https://topcryptoguide.com/como-comprar-time-new-bank-tnb/)
+
+Este artículo explica **cómo comprar Time New Bank (TNB)**, un token que forma parte del ecosistema **Time New Bank**, centrado en facilitar servicios financieros digitales integrados con recompensas y programas para usuarios. Para adquirir TNB normalmente debes **abrir una cuenta en un exchange confiable donde esté listado** (como Binance, KuCoin o Gate.io), **verificar tu identidad** si corresponde y **depositar fondos** mediante transferencia bancaria, tarjeta o stablecoins como USDT para luego ejecutar la compra en el mercado spot. Algunos exchanges también permiten **comprar TNB con tarjeta de crédito/débito**. Tras la compra, se recomienda **mover tus tokens a un wallet seguro** donde controles tus claves privadas para proteger tus activos digitales.
